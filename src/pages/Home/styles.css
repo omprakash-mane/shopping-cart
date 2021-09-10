@@ -1,0 +1,19 @@
+.home {
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.home__navigate-top-products {
+  border: none;
+  width: 50%;
+  height: 100px;
+  background-color: indianred;
+  color: white;
+  font-size: inherit;
+  font-family: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}

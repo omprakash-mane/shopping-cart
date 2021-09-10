@@ -1,0 +1,21 @@
+.btn {
+  background-color: #1f78cc;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+.btn:hover {
+  background-color: #175794;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: inherit;
+}

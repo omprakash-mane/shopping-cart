@@ -1,0 +1,38 @@
+.menu-bar {
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-content: flex-end;
+  margin: 20px;
+}
+
+.menu-bar-app-heading {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.menu-bar-app-heading-text {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: rgb(108, 32, 179);
+  font-style: italic;
+}
+
+a:link,
+a:visited {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  text-shadow: 5px 10px 10px rgb(208, 159, 255);
+}
+
+a:link:active,
+a:visited:active {
+  color: inherit;
+}

@@ -4,6 +4,7 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
+  background-image: url("../../assets/home-page-wallpaper.jpg");
 }
 
 .home__navigate-top-products {
